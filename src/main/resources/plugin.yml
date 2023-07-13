@@ -1,0 +1,12 @@
+name: Dusk
+version: 0.1
+main: xyz.intensedev.dusk.Main
+authors: [
+    Intense Development
+    discord.gg/intensedev
+]
+
+commands:
+    dusk: null
+    duskinfo: null
+    duskwhitelist: null

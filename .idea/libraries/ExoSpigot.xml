@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ExoSpigot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/ExoSpigot.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/ExoSpigot.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,18 @@
+License-Key: "ABCD-0123-EFGH-4567"
+API-TOKEN: ""
+
+Permission:
+  Staff: dusk.staff
+  Bypass: dusk.bypass
+
+KickMessage: "&cVpns are not allowed on this server."
+StaffMessage: "&c(%player%) tried to login with a Proxy / Vpns."
+
+InfoMessage:
+  - "&7&m-----------------------------"
+  - "&b&lDusk Info &7(%player%)"
+  - "&fVPN: &b%vpn%"
+  - "&fType: &b%type%"
+  - "&fProvider: &c%provider%"
+  - "&7&m-----------------------------"
+

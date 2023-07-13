@@ -1,0 +1,11 @@
+xyz\intensedev\dusk\Main.class
+xyz\intensedev\dusk\profile\Profile.class
+xyz\intensedev\dusk\utils\MongoHandler.class
+xyz\intensedev\dusk\profile\ProfileManager.class
+xyz\intensedev\dusk\utils\CC.class
+xyz\intensedev\dusk\utils\VPNAPI.class
+xyz\intensedev\dusk\listeners\PlayerListener.class
+xyz\intensedev\dusk\utils\License$ReturnType.class
+xyz\intensedev\dusk\commands\DuskCommand.class
+xyz\intensedev\dusk\utils\License.class
+xyz\intensedev\dusk\commands\DuskInfoCommand.class
